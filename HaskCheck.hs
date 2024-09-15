@@ -2,7 +2,7 @@
 -- @author Henry Wandover
 -- @date Sept. 7, 2024
 
-module HsUnit (
+module HaskCheck (
  hwAssertEqual,
  hwAssertTrue,
  hwAssertFalse

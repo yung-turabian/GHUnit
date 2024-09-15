@@ -1,2 +1,2 @@
-# HsUnit
+# HaskCheck
 λtesting 
