@@ -1,10 +1,10 @@
--- @file UTest.hs
+-- @file GHUT.hs
 -- @author Henry Wandover
 -- @date Sept. 7, 2024
 
 {-# LANGUAGE FlexibleInstances #-}
 
-module GHUnit (
+module GHUT (
  hwAssert,
  hwAssertTrue,
  hwAssertFalse,
