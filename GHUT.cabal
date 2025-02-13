@@ -22,17 +22,9 @@ homepage:            henrywandover.com
 -- A URL where users can report bugs.
 -- bug-reports:
 
--- The license under which the package is released.
 license:             BSD3
-
--- The file containing the license text.
 license-file:        LICENSE
-
--- The package author(s).
 author:              Henry Wandover
-
--- An email address to which users can send suggestions, bug reports, and
--- patches.
 maintainer:          henrywandover@gmail.com
 
 -- A copyright notice.
